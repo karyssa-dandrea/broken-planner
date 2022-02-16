@@ -1,3 +1,4 @@
+import { useEntries } from '../../context/PlannerContext';
 import Entry from './EntryItem';
 import styles from './EntryList.css';
 
